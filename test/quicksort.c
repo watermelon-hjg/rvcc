@@ -1,5 +1,5 @@
-/*快速排序算法*/
-#include "test.h"
+/*快速排序*/
+#include <stdio.h>
 
 void swap(int *a, int *b) {
     int temp = *a;

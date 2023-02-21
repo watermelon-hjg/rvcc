@@ -1,5 +1,4 @@
-/*求数组的最大公约数算法*/
-//#include "test.h"
+/*求数组最大公约数算法*/
 #include <stdio.h>
 int gcd(int a, int b) {
     if (b == 0) {
